@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ravindu Hasanka</h1>
-<h3 align="center">I'm a Science Undergraduate from UCSC,Sri Lanka</h3>
+<h3 align="center">I'm a 2nd year Computer Science Undergraduate at University of Colombo School of Computing (UCSC), Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinduhash&label=Profile%20views&color=0e75b6&style=flat" alt="ravinduhash" /> </p>
 
 - 🔭 I’m currently working on **my 2nd year group project.**
 
+- 🔭 I’m currently working on **Kindergarten age learning system.**
+
 - 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **rhatu2000@gmail.com**
+
+- 📫 How to reach me **(https://www.linkedin.com/in/ravindu-hasanka/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
