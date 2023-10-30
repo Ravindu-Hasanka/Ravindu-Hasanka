@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ravindu Hasanka</h1>
-<h3 align="center">I'm a 2nd year Computer Science Undergraduate at the University of Colombo School of Computing (UCSC), Sri Lanka</h3>
+<h3 align="center">I'm a 2nd-year Computer Science Undergraduate at the University of Colombo School of Computing (UCSC), Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinduhash&label=Profile%20views&color=0e75b6&style=flat" alt="ravinduhash" /> </p>
 
-- 🔭 I’m currently working on **my 2nd year group project.**
+- 🔭 I’m currently working on my 2nd year group project about **Staff Service Management System named STAFFLINK**
 
 - 🔭 I’m currently working on **Kindergarten age learning system.**
 
