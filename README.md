@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinduhash&label=Profile%20views&color=0e75b6&style=flat" alt="ravinduhash" /> </p>
 
-- 🔭 I’m currently working on my 2nd year group project about **Staff Service Management System named STAFFLINK**
+- 🔭 I’m currently working on my 3rd year group project about **Cafe Chain Management System named LaFresca**
 
-- 🔭 I’m currently working on **Kindergarten age learning system.**
-
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Java stack**
 
 - 📫 How to reach me **rhatu2000@gmail.com**
 
