@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravindu Hasanka</h1>
 <h3 align="center">Intern Software Engineer at <a href="https://www.fcodelabs.com/">FcodeLabs</a></h3>
-<h3 align="center">3rd-Year Computer Science Undergraduate at UCSC, Sri Lanka</h3>
+<h3 align="center">Final Year Computer Science Undergraduate at UCSC, Sri Lanka</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ravinduhash&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
