@@ -29,7 +29,7 @@
 
 ---
 
-## 💼 Experience (Internship)
+## 💼 Experience
 **Intern Software Engineer — Fcode Labs (Pvt) Ltd, Colombo** *(Dec 2024 – Jun 2025)*  
 - Built full-stack features for an **Employee Performance Management System** using **NestJS + Next.js + PostgreSQL**
 - Developed an **AI-powered educational platform** (RAG-based) with auth, personalized content, and 3rd-party APIs
