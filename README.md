@@ -73,16 +73,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravindu-Hasanka&show_icons=true&include_all_commits=true&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindu-Hasanka&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contact
 - Email: **rhatu2000@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/ravindu-hasanka/
