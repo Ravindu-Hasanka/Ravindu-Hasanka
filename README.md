@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravindu Hasanka Athukorala</h1>
 <h3 align="center">Final Year Software Engineering Undergraduate @ UCSC (Sri Lanka)</h3>
-<h3 align="center">Ex Intern Software Engineer @ <a href="https://www.fcodelabs.com/">Fcode Labs</a></h3>
+<h3 align="center">Former Intern Software Engineer @ <a href="https://www.fcodelabs.com/">Fcode Labs</a></h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ravindu-Hasanka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
